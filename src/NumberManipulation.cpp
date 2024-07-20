@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout <<"Suresh Welcome to CPP"<<std::endl;
+    std::cout <<"Welcome to CPP"<<std::endl;
 }
