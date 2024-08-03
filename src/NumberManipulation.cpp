@@ -1,6 +1,12 @@
 #include <iostream>
 
-int main()
+#include "../inc/NumberManipulation.hpp"
+
+using namespace std;
+
+
+int source()
 {
-    std::cout <<"Welcome to CPP"<<std::endl;
+    cout <<"include NumberManipulation source file"<<endl;
+    return 0;
 }
