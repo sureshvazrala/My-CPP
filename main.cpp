@@ -5,6 +5,8 @@
 #include "test/Numbermanipulationtest.cpp"
 #include "test/LinkedListtest.cpp"
 
+#include "src/DATA_STRUCTURES/DoublyLinkedList.cpp"
+
 #include "src/OOPS/class.cpp"
 
 using namespace std;
@@ -15,5 +17,6 @@ int main()
     test();
     class_demo();
     linkedlisttest();
+    doublyLinkedListtest();
     return 0;
 }
